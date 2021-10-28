@@ -38,9 +38,6 @@ jobs:
       - name: Install Dependencies
         id: install
         run: npm install --ignore-scripts
-        
-      - name: Build bcrypt
-        run: npm rebuild --update-binary bcrypt
 
       - name: Check licenses
         id: license_check
