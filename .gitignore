@@ -117,11 +117,7 @@ dist
 .pnp.*
 
 # TypeScript Build
-*.js.map
-*.js
 *.d.ts
 
 #
 yarn.lock
-!jest.config.js
-!rollup.config.js
