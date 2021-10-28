@@ -1,0 +1,30 @@
+{
+  "name": "secure-url",
+  "version": "0.0.0",
+  "description": "",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "lint": "standard",
+    "lint:fix": "npm run lint -- --fix",
+    "unit": "tap",
+    "test": "npm run lint && npm run unit",
+    "coverage": "tap --coverage --coverage-report=lcovonly"
+  },
+  "publishConfig": {
+    "access": "public",
+    "registry": "https://registry.npmjs.org/"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/climba03003/secure-url.git"
+  },
+  "author": "KaKa",
+  "license": "MIT",
+  "devDependencies": {
+    "standard": "^16.0.4",
+    "tap": "^15.0.10"
+  }
+}
