@@ -1,4 +1,4 @@
-# @kakang/secure-url
+# secure-url
 
 [![Continuous Integration](https://github.com/climba03003/secure-url/actions/workflows/ci.yml/badge.svg)](https://github.com/climba03003/secure-url/actions/workflows/ci.yml)
 [![Package Manager CI](https://github.com/climba03003/secure-url/actions/workflows/package-manager-ci.yml/badge.svg)](https://github.com/climba03003/secure-url/actions/workflows/package-manager-ci.yml)
