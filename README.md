@@ -5,7 +5,7 @@
 [![NPM version](https://img.shields.io/npm/v/secure-url.svg?style=flat)](https://www.npmjs.com/package/secure-url)
 [![GitHub package.json version](https://img.shields.io/github/package-json/v/climba03003/secure-url)](https://github.com/climba03003/secure-url)
 [![Coverage Status](https://coveralls.io/repos/github/climba03003/secure-url/badge.svg?branch=main)](https://coveralls.io/github/climba03003/secure-url?branch=master)
-[![GitHub](https://img.shields.io/github/license/climba03003/secure-url)](https://github.com/climba03003/secure-url)
+[![GitHub](https://img.shields.io/npm/l/secure-url)](https://github.com/climba03003/secure-url)
 
 ## Install
 
